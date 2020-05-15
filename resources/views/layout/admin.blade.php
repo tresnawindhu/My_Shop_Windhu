@@ -41,7 +41,6 @@
                 <a href="{{asset('index.html')}}" class="navbar-brand"> 
                  <b>MYSHOP</b>
                 </a>
-
               
 
               <ul class="nav navbar-nav navbar-right user-nav">
@@ -62,7 +61,7 @@
                                     </form>
                                 </div>
                             </li>
-                
+
               </ul>
             </div>
           </div>
